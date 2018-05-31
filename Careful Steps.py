@@ -1,10 +1,11 @@
+# first extract the main zip file to get 'archives' folder
+
 import zipfile
 import rarfile
 import magic
 import sys
 
 path = '/home/sh1kn0z/Downloads/archives/unzipme.'
-count = 0
 
 i = 0
 
