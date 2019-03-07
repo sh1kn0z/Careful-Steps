@@ -5,7 +5,7 @@ import rarfile
 import magic
 import sys
 
-path = '/home/sh1kn0z/Downloads/archives/unzipme.'
+path = '/path_to_directory/unzipme.'
 
 i = 0
 
